@@ -1,0 +1,243 @@
+=======================
+     2022/09/25
+=======================
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+216f174 Revert "odin: Drop libhidl shims"
+d09b848 odin: Move to AOSP NXP NFC HAL
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+ca220f5fa750 fixup "DozeSensors: only use proximity sensor if supported"
+e12644eab6a6 Revert "base: HeadsUp snooze function [1/2]"
+
+* Repository: https://github.com/Evolution-X/packages_apps_Evolver/commits/refs/heads/tiramisu
+
+946d4f2 Evolver: Refactor Alert slider options
+
+* Repository: https://github.com/Evolution-X/packages_apps_Settings/commits/refs/heads/tiramisu
+
+e16f733 Settings: add sim status listener in about phone
+
+* Repository: https://github.com/Evolution-X/vendor_evolution/commits/refs/heads/tiramisu
+
+566df39 config: Build UDFPS resources
+
+* Repository: https://github.com/Inkypen79/vendor_odin/commits/lineage-20.0
+
+29ac761 odin: Move to AOSP NXP NFC HAL
+
+
+=======================
+     2022/09/24
+=======================
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+a35ce27 Revert "odin: Switch to AOSP NFC"
+
+
+=======================
+     2022/09/23
+=======================
+
+* Repository: https://github.com/Inkypen79/kernel_xiaomi_odin/commits/lineage-19.1
+
+85385f4fd Merge remote-tracking branch 'google-linux-stable/android11-5.4-lts' into HEAD
+
+* Repository: https://gitlab.com/EvoX/vendor_gapps/commits/refs/heads/tiramisu
+
+9ba9892 gms: Support GoogleBattery for all
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_fm-commonsys/commits/refs/heads/lineage-20.0
+
+b2d3956 Automatic translation import
+
+
+=======================
+     2022/09/22
+=======================
+
+* Repository: https://github.com/LineageOS/android_hardware_qcom_bt/commits/lineage-20.0-caf
+
+b7218e4 Fix include path for system/bt
+
+* Repository: https://github.com/Evolution-X/vendor_pixel-framework/commits/refs/heads/tiramisu
+
+ef90150 SettingsGoogle: Sync with Evolution X changes
+
+
+=======================
+     2022/09/21
+=======================
+
+* Repository: https://github.com/Evolution-X/packages_apps_GameSpace/commits/refs/heads/tiramisu
+
+f7bffb0 New Crowdin updates (#16)
+
+* Repository: https://github.com/Evolution-X/packages_apps_Updates/commits/refs/heads/tiramisu
+
+0c0a683 New Crowdin updates (#45)
+
+* Repository: https://github.com/Evolution-X/packages_resources_devicesettings/commits/refs/heads/tiramisu
+
+b95c8f5 New Crowdin updates (#17)
+
+
+=======================
+     2022/09/20
+=======================
+
+* Repository: https://github.com/Evolution-X/device_qcom_sepolicy_vndr/commits/refs/heads/tiramisu
+
+8bac67c sepolicy_vndr: Fix qtr_sdk_use macro definition
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+1abbde8 Evo-X bringup
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_display-commonsys-intf/commits/refs/heads/lineage-20.0
+
+cec5a9c Hookup GRALLOC_HANDLE_HAS_RESERVED_SIZE
+
+
+=======================
+     2022/09/19
+=======================
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+d130b14 odin: Fixup sepolicy
+8629951 odin: Switch to legacy sepolicy_vndr
+7cb8806 odin: Migrate to AIDL ClearKey DRM HAL
+5ec38ab odin: Drop libhidl shims
+23156d4 odin: Remove persist.sys.fflag.override.settings_bluetooth_hearing_aid
+eedc911 odin: Disable BT SAP server
+17b1550 odin: Enable Audio Support for Hearing Aids central support
+fac7dd6 odin: Disable LE audio related profiles
+a6cc1a8 odin: Use the ?= operator so BT properties can be overridden
+3c70400 odin: Update LE Audio profile properties to match spec and implementation
+727d3da odin: Enable bluetooth profiles with system_ext.prop
+93ee4c6 odin: Align ASHA prop with BluetoothProperties
+af07d7c odin: Added new vendors for Bluetooth config migration
+9a43092 odin: Set default the Bluetooth class of device
+f86ead0 odin: Switch BtAudio to AIDL
+d27ab71 odin: Stop building audio.a2dp.default
+aade914 odin: Switch to AOSP BT
+
+
+=======================
+     2022/09/18
+=======================
+
+* Repository: https://github.com/Evolution-X/device_evolution_sepolicy/commits/refs/heads/tiramisu
+
+d1693da Remove lineage power HAL policy
+
+* Repository: https://github.com/Evolution-X/device_qcom_sepolicy-legacy-um/commits/refs/heads/tiramisu
+
+639f8cb sepolicy-legacy-um: Update drm service executables file_contexts
+
+* Repository: https://github.com/Evolution-X/system_update_engine/commits/refs/heads/tiramisu
+
+ecba11b update_engine: Always disable signature and downgrade checks
+
+
+=======================
+     2022/09/17
+=======================
+
+* Repository: https://github.com/Evolution-X/hardware_xiaomi/commits/refs/heads/tiramisu
+
+ca30ff5 power-libperfmgr: initialize powerHAL when boot is completed
+
+* Repository: https://github.com/Evolution-X/manifest/commits/refs/heads/tiramisu
+
+baaa853 manifest: Initial A13 manifest (Evolution X 7.1)
+
+* Repository: https://github.com/Evolution-X/packages_services_Telecomm/commits/refs/heads/tiramisu
+
+d649385 Use double vibration on call hang-up
+
+
+=======================
+     2022/09/16
+=======================
+
+* Repository: https://github.com/Evolution-X/build/commits/refs/heads/tiramisu
+
+5e27b0c Merge tag 'android-13.0.0_r6' of https://android.googlesource.com/platform/build into tiramisu
+
+* Repository: https://github.com/Evolution-X/frameworks_av/commits/refs/heads/tiramisu
+
+054a945 audiopolicy: Disable sonification on WFD sink
+
+* Repository: https://github.com/Evolution-X/frameworks_opt_telephony/commits/refs/heads/tiramisu
+
+15045bc Reintroduce 'public void TelephonyMetrics.writeRilSendSms(int, int, int, int)'. (#8)
+
+* Repository: https://github.com/Evolution-X/packages_apps_SettingsIntelligence/commits/refs/heads/tiramisu
+
+c3c3bec SettingsIntelligence: bring back all changes from Build.FINGERPRINT to Build.TIME [2/4]
+
+* Repository: https://github.com/Evolution-X/packages_services_Telephony/commits/refs/heads/tiramisu
+
+679cac3 Telephony: bring back all changes from Build.FINGERPRINT to Build.TIME [3/4]
+
+
+=======================
+     2022/09/15
+=======================
+
+
+=======================
+     2022/09/14
+=======================
+
+* Repository: https://github.com/Evolution-X/hardware_qcom-caf_sm8150_display/commits/refs/heads/tiramisu
+
+52b2dc7 display-product.mk: compilation fix for ks sync path change
+
+* Repository: https://github.com/Evolution-X/packages_modules_Bluetooth/commits/refs/heads/tiramisu
+
+992bcc8 gd: hci: Ignore unexpected status events
+
+
+=======================
+     2022/09/13
+=======================
+
+* Repository: https://github.com/PixelExperience-Devices/device_qcom_common/commits/twelve
+
+18464c4 vendor: init: init.qcom.post_boot: Enable support for Gaming variant.
+
+* Repository: https://github.com/LineageOS/android_device_qcom_sepolicy_vndr/commits/lineage-20.0-legacy-um
+
+6d8311b misc sepolicy changes
+
+
+=======================
+     2022/09/12
+=======================
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+50f09c9 odin: Switch to AOSP NFC
+d9f08af odin: Remove ndk_platform backend. Use the ndk backend.
+fc4fb45 odin: Import the QTI AIDL lights HAL from LA.UM.9.14.r1-17700-LAHAINA.0.
+5aaf59a odin: sensors: Updated multihal to use new sensors AIDL interface.
+7ad0745 odin: rootdir: Update init script to use Supplicant AIDL interface.
+1b7fc04 odin: cutout: override the onKeepClearAreasChanged method
+f958acf odin: bootctrl: Update to Boot Control HAL v1.2
+2275729 odin: bootctrl: Remove bootctrl.odin target
+d9d6bd5 odin: gpt-utils: Update PTN_SWAP_LIST and handle multiimg(oem/qti),
+3cb0d59 odin: gpt-utils: Add product to ab partition list
+634e160 odin: Removing GSI keys
+798c9f0 odin: Update blobs from MIUI V13.0.8.0.SKMCNXM
+
+* Repository: https://github.com/Evolution-X/packages_providers_DownloadProvider/commits/refs/heads/tiramisu
+
+a144c4c Add support to manually pause/resume downloads [2/2]
+
+
