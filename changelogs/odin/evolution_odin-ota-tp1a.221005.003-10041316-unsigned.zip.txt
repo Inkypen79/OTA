@@ -1,0 +1,207 @@
+=======================
+     2022/10/04
+=======================
+
+* Repository: https://github.com/Evolution-X/build/commits/refs/heads/tiramisu
+
+20a3da7 Merge tag 'android-13.0.0_r8' of https://android.googlesource.com/platform/build into tiramisu
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+2abeff73 Evo-X bringup
+f3cdb53a odin: Kang rounded corner padding from haydn
+
+* Repository: https://github.com/LineageOS/android_external_ntfs-3g/commits/lineage-19.1
+
+7471d64 config.h: Update version to 2022.5.17
+
+* Repository: https://github.com/Evolution-X/frameworks_av/commits/refs/heads/tiramisu
+
+29c11ed Merge tag 'android-13.0.0_r8' of https://android.googlesource.com/platform/frameworks/av into tiramisu
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+0c8cd4acde16 [SQUASH] SystemUI: Make "Require unlocking to use sensitive QS tiles" optional [1/2]
+
+* Repository: https://github.com/Evolution-X/frameworks_opt_telephony/commits/refs/heads/tiramisu
+
+ce958bf Merge tag 'android-13.0.0_r8' of https://android.googlesource.com/platform/frameworks/opt/telephony into tiramisu
+
+* Repository: https://github.com/Evolution-X/hardware_interfaces/commits/refs/heads/tiramisu
+
+476f240 Merge tag 'android-13.0.0_r8' of https://android.googlesource.com/platform/hardware/interfaces into tiramisu
+
+* Repository: https://github.com/Evolution-X/manifest/commits/refs/heads/tiramisu
+
+de03988 Merge tag 'android-13.0.0_r8' of https://android.googlesource.com/platform/manifest into tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_apps_Evolver/commits/refs/heads/tiramisu
+
+6baa76d Evolver: Refactor for Tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_apps_Settings/commits/refs/heads/tiramisu
+
+3ca82de Merge tag 'android-13.0.0_r8' of https://android.googlesource.com/platform/packages/apps/Settings into tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_modules_Bluetooth/commits/refs/heads/tiramisu
+
+8918747 Merge tag 'android-13.0.0_r8' of https://android.googlesource.com/platform/packages/modules/Bluetooth into tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_modules_Connectivity/commits/refs/heads/tiramisu
+
+0b61a61 Merge tag 'android-13.0.0_r8' of https://android.googlesource.com/platform/packages/modules/Connectivity into tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_providers_MediaProvider/commits/refs/heads/tiramisu
+
+9423deb Merge tag 'android-13.0.0_r8' of https://android.googlesource.com/platform/packages/providers/MediaProvider into tiramisu
+
+* Repository: https://gitlab.com/Inkypen/vendor_anxcamera/commits/lineage-20.0
+
+d9ee3dc Initial A13 update
+
+* Repository: https://github.com/Evolution-X/vendor_evolution/commits/refs/heads/tiramisu
+
+d74ff6c vendor: rro_overlays: Configure face unlock acquire ignorelist
+
+* Repository: https://gitlab.com/EvoX/vendor_gapps/commits/refs/heads/tiramisu
+
+e2e8162 gms: Don't build CaptivePortalLoginGoogle
+
+
+=======================
+     2022/10/03
+=======================
+
+
+=======================
+     2022/10/02
+=======================
+
+* Repository: https://github.com/Evolution-X/device_evolution_sepolicy/commits/refs/heads/tiramisu
+
+8a9e7d9 sepolicy: Grant neccesary ioctls to recovery for external sd
+
+
+=======================
+     2022/10/01
+=======================
+
+* Repository: https://github.com/Evolution-X/vendor_qcom_opensource_display-commonsys/commits/refs/heads/tiramisu
+
+34a76a2 qdMetadata: Ignore UNUSED parameter * Fixes following log spam:   E qdmetadata: paramType 32 not supported
+
+
+=======================
+     2022/09/30
+=======================
+
+
+=======================
+     2022/09/29
+=======================
+
+* Repository: https://github.com/Evolution-X/vendor_pixel-framework/commits/refs/heads/tiramisu
+
+743be0d SystemUIGoogle: Sync with Evolution X changes
+
+
+=======================
+     2022/09/28
+=======================
+
+* Repository: https://github.com/Evolution-X/hardware_qcom-caf_sm8150_display/commits/refs/heads/tiramisu
+
+f2f4169 display-product.mk: compilation fix for ks sync path change
+
+* Repository: https://github.com/Evolution-X/system_sepolicy/commits/refs/heads/tiramisu
+
+cffe070 Allow webview_zygote to read /dev/ion
+
+* Repository: https://github.com/LineageOS/android_tools_extract-utils/commits/refs/heads/lineage-20.0
+
+ebdf73f extract-utils: egrep: warning: egrep is obsolescent; using grep -E
+
+
+=======================
+     2022/09/27
+=======================
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+5049fd60 odin: Use star global for product model
+c1b79ff5 odin: Switch to legacy sepolicy_vndr
+cfdfd746 odin: sepolicy: Address some denials
+
+* Repository: https://github.com/Evolution-X/packages_services_Telecomm/commits/refs/heads/tiramisu
+
+537680c Use double vibration on call hang-up
+
+
+=======================
+     2022/09/26
+=======================
+
+* Repository: https://github.com/Evolution-X/build_soong/commits/refs/heads/tiramisu
+
+64be63e Revert "Use turbine instead of kapt for kotlin annotation processors"
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+a59b6978 odin: Migrate to AIDL ClearKey DRM HAL
+681e7921 odin: Remove persist.sys.fflag.override.settings_bluetooth_hearing_aid
+60b5cc46 odin: Disable BT SAP server
+2f7c1e01 odin: Enable Audio Support for Hearing Aids central support
+d787b589 odin: Disable LE audio related profiles
+9b7f6ebc odin: Use the ?= operator so BT properties can be overridden
+69665a5d odin: Update LE Audio profile properties to match spec and implementation
+3b0c7d33 odin: Enable bluetooth profiles with system_ext.prop
+df07baab odin: Align ASHA prop with BluetoothProperties
+f611c1cc odin: Added new vendors for Bluetooth config migration
+f568b356 odin: Set default the Bluetooth class of device
+1af28c6e odin: Switch BtAudio to AIDL
+5af4c3e7 odin: Stop building audio.a2dp.default
+24f0ca95 odin: Switch to AOSP BT
+4e2425a8 odin: Move to AOSP NXP NFC HAL
+
+
+=======================
+     2022/09/25
+=======================
+
+* Repository: https://github.com/Inkypen79/vendor_odin/commits/lineage-20.0
+
+29ac761 odin: Move to AOSP NXP NFC HAL
+
+
+=======================
+     2022/09/24
+=======================
+
+
+=======================
+     2022/09/23
+=======================
+
+* Repository: https://github.com/Inkypen79/kernel_xiaomi_odin/commits/lineage-19.1
+
+85385f4fd Merge remote-tracking branch 'google-linux-stable/android11-5.4-lts' into HEAD
+
+
+=======================
+     2022/09/22
+=======================
+
+* Repository: https://github.com/LineageOS/android_hardware_qcom_bt/commits/lineage-20.0-caf
+
+b7218e4 Fix include path for system/bt
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_fm-commonsys/commits/refs/heads/lineage-20.0
+
+b2d3956 Automatic translation import
+
+
+=======================
+     2022/09/21
+=======================
+
+
