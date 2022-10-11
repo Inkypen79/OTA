@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1665125800,
-      "filename": "lineage-20.0-20221007-UNOFFICIAL-odin.zip",
-      "id": "bb583e6f0283cad3b0b2baf583b2f7deaac2cb653ea546311ef32adf082e6e3a",
+      "datetime": 1665494542,
+      "filename": "lineage-20.0-20221011-UNOFFICIAL-odin.zip",
+      "id": "252b08c6d9c19a703856a4fd4d8d2ddb7b274dcb1a5d92ec828426c26ae704ba",
       "romtype": "UNOFFICIAL",
-      "size": 1973450861,
-      "url": "https://sourceforge.net/projects/xiaomi-odin/files/13/LineageOS/lineage-20.0-20221007-UNOFFICIAL-odin.zip/download",
+      "size": 1972667738,
+      "url": "https://sourceforge.net/projects/xiaomi-odin/files/13/LineageOS/lineage-20.0-20221011-UNOFFICIAL-odin.zip/download",
       "version": "20.0"
     }
   ]
