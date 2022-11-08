@@ -1,0 +1,212 @@
+=======================
+     2022/11/08
+=======================
+
+* Repository: https://github.com/Evolution-X/build/commits/refs/heads/tiramisu
+
+ba5438c Merge tag 'android-13.0.0_r13' of https://android.googlesource.com/platform/build into tiramisu
+
+* Repository: https://github.com/Evolution-X/device_qcom_sepolicy-legacy-um/commits/refs/heads/tiramisu
+
+9def97f sepolicy: qva: Allow FM app to find mediametrics service
+
+* Repository: https://github.com/Evolution-X/device_qcom_sepolicy_vndr-legacy-um/commits/refs/heads/tiramisu
+
+aaf7ec8 hal_usb_qti: Make legacy rules more aligned with QVA
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+f0a682c0 odin: Set default device name to MIX 4
+
+* Repository: https://github.com/Evolution-X/frameworks_av/commits/refs/heads/tiramisu
+
+38ffb5d72c DNM Revert "Camera: Add support for readout timestamp"
+ffb5cd3c3b Merge tag 'android-13.0.0_r13' of https://android.googlesource.com/platform/frameworks/av into tiramisu
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+d6a2643e2392 Revert "Camera: Add support for readout timestamp"
+6ad44819432f SystemUI: use simple check for isFaceDisabled
+
+* Repository: https://github.com/Evolution-X/hardware_qcom-caf_wlan/commits/refs/heads/tiramisu
+
+33fbd26 wlan: Introduce TARGET_HAS_BROKEN_WLAN_SET_INTERFACE
+
+* Repository: https://github.com/Evolution-X/hardware_xiaomi/commits/refs/heads/tiramisu
+
+a7844ea Light: Add null check for lights smart pointer
+
+* Repository: https://github.com/Evolution-X/manifest/commits/refs/heads/tiramisu
+
+76e0c53 pixel: Sync gs201 kernel modules
+
+* Repository: https://github.com/Evolution-X/packages_apps_FaceUnlockService/commits/refs/heads/tiramisu
+
+eb53619 Bump to sdk 33
+
+* Repository: https://github.com/Evolution-X/packages_apps_Settings/commits/refs/heads/tiramisu
+
+78a6d69 New Crowdin updates (#207)
+
+* Repository: https://github.com/Evolution-X/packages_modules_Bluetooth/commits/refs/heads/tiramisu
+
+a891332 Merge tag 'android-13.0.0_r13' of https://android.googlesource.com/platform/packages/modules/Bluetooth into tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_modules_Wifi/commits/refs/heads/tiramisu
+
+df26219 Merge tag 'android-13.0.0_r13' of https://android.googlesource.com/platform/packages/modules/Wifi into tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_services_Telecomm/commits/refs/heads/tiramisu
+
+73d46f0 Merge tag 'android-13.0.0_r13' of https://android.googlesource.com/platform/packages/services/Telecomm into tiramisu
+
+* Repository: https://github.com/Evolution-X/system_core/commits/refs/heads/tiramisu
+
+90f4161 init: Spoof more props
+
+* Repository: https://github.com/Evolution-X/vendor_evolution/commits/refs/heads/tiramisu
+
+0df9c21 vendor: apex: Update from TD1A.221105.001
+
+* Repository: https://github.com/Evolution-X/vendor_pixel-framework/commits/refs/heads/tiramisu
+
+b785622 SystemUIGoogle: Sync with Evolution X changes
+
+
+=======================
+     2022/11/07
+=======================
+
+* Repository: https://github.com/LineageOS/android_packages_apps_Aperture/commits/refs/heads/lineage-20.0
+
+7d1ff1b Aperture: Move single tap detection logic to onSingleTapUp()
+
+* Repository: https://github.com/Evolution-X/packages_apps_Evolver/commits/refs/heads/tiramisu
+
+5221874 Evolver: Refactor for Tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_modules_Connectivity/commits/refs/heads/tiramisu
+
+5e39058 TrafficStats: Stop the spam
+
+
+=======================
+     2022/11/06
+=======================
+
+* Repository: https://github.com/PixelExperience-Devices/device_qcom_common/commits/thirteen
+
+a443380 common: sepolicy: suppress harmless denials
+
+
+=======================
+     2022/11/05
+=======================
+
+
+=======================
+     2022/11/04
+=======================
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+b92a1b19 Evo-X bringup
+d0b21b1a odin: overlay: Adjust rounded corner paddings
+f4a75140 odin: Drop lights HAL
+cdc0d7f2 Revert "odin: Move to libhidl shim in hardware/lineage/compat"
+473e085c odin: switch to threaded Skia render engine backend
+
+* Repository: https://github.com/Inkypen79/kernel_xiaomi_odin/commits/wip
+
+db2b620418a9 once: Fix panic when module unload
+
+* Repository: https://gitlab.com/Inkypen/vendor_anxcamera/commits/lineage-20.0
+
+a53e092 Add patch to revert timestamp support
+
+
+=======================
+     2022/11/03
+=======================
+
+* Repository: https://github.com/Evolution-X/frameworks_opt_telephony/commits/refs/heads/tiramisu
+
+72cb6fa fixup! telephony: Disable handling audio direction changes on IMS calls.
+
+* Repository: https://github.com/Evolution-X/packages_apps_Updates/commits/refs/heads/tiramisu
+
+c05baef Updater: README: Update android studio instructions
+
+* Repository: https://github.com/Evolution-X/system_memory_lmkd/commits/refs/heads/tiramisu
+
+203fbac lmkd: fix the cgroup attribute name to MemCgroupEventControl
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_fm-commonsys/commits/refs/heads/lineage-20.0
+
+1f631a2 Automatic translation import
+
+
+=======================
+     2022/11/02
+=======================
+
+
+=======================
+     2022/11/01
+=======================
+
+* Repository: https://github.com/Evolution-X/packages_apps_GCamGOPrebuilt/commits/refs/heads/tiramisu
+
+4be1099 GCamGOPrebuilt: Override Aperture
+
+* Repository: https://gitlab.com/EvoX/vendor_gms/commits/refs/heads/tiramisu
+
+76d6652 gms: Update GRIL to support new radioext interface
+
+
+=======================
+     2022/10/31
+=======================
+
+
+=======================
+     2022/10/30
+=======================
+
+
+=======================
+     2022/10/29
+=======================
+
+* Repository: https://github.com/Inkypen79/vendor_xiaomi_odin/commits/lineage-20.0
+
+96182c6 Partially revert "odin: Switch to AOSP BT"
+
+
+=======================
+     2022/10/28
+=======================
+
+* Repository: https://github.com/Evolution-X/build_soong/commits/refs/heads/tiramisu
+
+f6ad873 Tweak Soong install rules logging
+
+
+=======================
+     2022/10/27
+=======================
+
+
+=======================
+     2022/10/26
+=======================
+
+* Repository: https://github.com/LineageOS/android_tools_extract-utils/commits/refs/heads/lineage-20.0
+
+cf1fe40 Stop using TMPDIR
+
+* Repository: https://gitlab.com/the-muppets/proprietary_vendor_firmware/commits/lineage-20
+
+c018015 instantnoodle/instantnoodlep: chmod 644 radio/*.img
+
+
