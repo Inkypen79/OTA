@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1668384784,
-      "filename": "lineage-20.0-20221114-UNOFFICIAL-gapps-andromeda.zip",
-      "id": "8375d804a62cbe1cf9a7309d4835a311f4ca22c8c7d67bba7e33b3a59f1cb9dd",
+      "datetime": 1668819967,
+      "filename": "lineage-20.0-20221119-UNOFFICIAL-gapps-andromeda-signed.zip",
+      "id": "ad297daa73e0ad0ae6d645a507b6dbb50f4c73ae07dc370ecdae1b2470d5b79b",
       "romtype": "UNOFFICIAL",
-      "size": 1464315793,
-      "url": "https://sourceforge.net/projects/xiaomi-andromeda/files/T/LineageOS/lineage-20.0-20221114-UNOFFICIAL-gapps-andromeda.zip/download",
+      "size": 1468060795,
+      "url": "https://sourceforge.net/projects/xiaomi-andromeda/files/T/LineageOS/lineage-20.0-20221119-UNOFFICIAL-gapps-andromeda-signed.zip/download",
       "version": "20.0"
     }
   ]
