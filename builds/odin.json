@@ -1,17 +1,17 @@
 {
-   "datetime": 1667942033,
+   "datetime": 1673112589,
    "donate_url": "https://www.paypal.me/inkypen",
    "error": false,
-   "filehash": "9386845ca3ed77a7a40660139fb17780",
-   "filename": "evolution_odin-ota-td1a.221105.001-11082200-unsigned.zip",
+   "filehash": "6809c32090bcbd4c253e116b61541bd9",
+   "filename": "evolution_odin-ota-tq1a.230105.001.a2-01071815-unsigned.zip",
    "forum_url": "",
-   "id": "ba5641565ef88285d5416834b1704fc28e0e804880dd234f6e152bf13c6c0bfa",
+   "id": "07c85a48697b552b2479ddbb97e6d4809109165bc787f342861363c268c3f5b6",
    "maintainer": "Nicholas Magill (Inkypen)",
    "maintainer_url": "https://github.com/Inkypen79",
    "news_url": "",
-   "size": 2889745608,
+   "size": 2917373572,
    "telegram_username": "inkypen",
-   "url": "https://sourceforge.net/projects/xiaomi-odin/files/13/EvolutionX/evolution_odin-ota-td1a.221105.001-11082200-unsigned.zip/download",
+   "url": "https://sourceforge.net/projects/xiaomi-odin/files/13/EvolutionX/evolution_odin-ota-tq1a.230105.001.a2-01071815-unsigned.zip/download",
    "version": "Thirteen",
    "website_url": "https://evolution-x.org"
 }

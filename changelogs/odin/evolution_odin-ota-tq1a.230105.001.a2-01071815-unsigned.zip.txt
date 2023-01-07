@@ -1,0 +1,333 @@
+=======================
+     2023/01/07
+=======================
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+bd9017ea Evo-X bringup
+
+* Repository: https://github.com/Evolution-X/frameworks_av/commits/refs/heads/tiramisu
+
+89451f5414 Revert "Camera: Narrow down cases preview spacer is used"
+02e9496e05 Revert "Camera: Add support for readout timestamp"
+3e4bd2f3e3 Revert "Delete support for HIDL V3.8"
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+954d28139c24 Revert "camera: Add backwards-compatible CaptureResultExtras constructor"
+b18f9756f3e2 Revert "Camera: Add support for readout timestamp"
+72cb96ae2ea9 hwui: renderthread/CanvasContext: Reduce the timeout for dequeueing buffers
+cad8f587fb75 fixup! SystemUI: Remove existing icon group if its overriding
+3dc60df3b478 SystemUI: Introduce camera & flashlight keyguard affordance
+412ca643cadf Youtube application when moving to PIP animation was very bad
+554ea2c81d63 NotificationPlayer: use AUDIOFOCUS_GAIN_TRANSIENT instead of AUDIOFOCUS_GAIN in looping mode
+5c683cb2fc78 base: dont call roundStorageSize on Storage API for getting sizes
+7c62da7e607b SystemUI: Allow choosing a custom background color seed [1/2]
+460e4e69c840 SystemUI: ColorScheme: Limit custom tinting to accent1
+e8bd5edc0e87 SystemUI: monet: Allow a more granular control over shades [1/2]
+3a8fad4357c5 base: Add support for Lockscreen clock fonts
+1a70bddf2458 fixup - SystemUI: Make the volume dialog expandable
+c8db6c74d80a fixup! fixup! Improvements for dynamic VoLTE & VoWiFi icons
+6913d6a758d2 fixup! SystemUI: Enable session-based media actions for all apps
+39a3538b5bb1 [SQUASH] SystemUI: Clean up some commits
+
+* Repository: https://github.com/Evolution-X/hardware_interfaces/commits/refs/heads/tiramisu
+
+69b96a4 Revert "Delete HIDL 3.8"
+
+* Repository: https://github.com/Evolution-X/packages_apps_ThemePicker/commits/refs/heads/tiramisu
+
+a88126c ThemePicker: Update PixelThemesStub from cheetah-user 13 TQ1A.230105.001.A2
+
+
+=======================
+     2023/01/06
+=======================
+
+* Repository: https://github.com/Evolution-X/device_qcom_sepolicy_vndr-legacy-um/commits/refs/heads/tiramisu
+
+876fb0e legacy: Add support for AIDL widevine hal
+
+* Repository: https://github.com/LineageOS/android_packages_apps_Aperture/commits/refs/heads/lineage-20.0
+
+c313c1b Aperture: Override LocationListener methods w/o defaults for pre-R API
+
+* Repository: https://github.com/Evolution-X/packages_apps_Evolver/commits/refs/heads/tiramisu
+
+4de3e62 Evolver: Allow choosing a custom background color seed [2/2]
+
+* Repository: https://github.com/Evolution-X/packages_apps_FaceUnlockService/commits/refs/heads/tiramisu
+
+2a80af0 CameraUtil: Dont go frenzy when camera not found
+
+* Repository: https://github.com/Evolution-X/packages_apps_Launcher3/commits/refs/heads/tiramisu
+
+0d82a03 Launcher3: Enable keyguard animation
+
+* Repository: https://github.com/Evolution-X/packages_apps_Settings/commits/refs/heads/tiramisu
+
+4157bb0 New Crowdin updates (#252)
+
+* Repository: https://github.com/Evolution-X/packages_modules_Bluetooth/commits/refs/heads/tiramisu
+
+d9f850a BtHelper: Apply rightLeft check to usingLeft/usingRight
+
+* Repository: https://github.com/Evolution-X/vendor_evolution/commits/refs/heads/tiramisu
+
+bc09ab8 clockfont: Add separate Google Sans and NothingDot overlays
+
+
+=======================
+     2023/01/05
+=======================
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+e55833bf8dd7 FeatureFlags: Enable systemui volume panel by default
+a58af73b1b3b Intent: Fix launch of permission revoke activity from playstore
+7782cfbc9713 camera: Add backwards-compatible CaptureResultExtras constructor
+
+* Repository: https://github.com/Evolution-X/vendor_pixel-framework/commits/refs/heads/tiramisu
+
+14313df SettingsGoogle: Set styles/wallpaper picker action name
+
+
+=======================
+     2023/01/04
+=======================
+
+* Repository: https://github.com/Evolution-X/build/commits/refs/heads/tiramisu
+
+d1c86be Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/build into tiramisu
+
+* Repository: https://github.com/Evolution-X/build_soong/commits/refs/heads/tiramisu
+
+9ede0de Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/build/soong into tiramisu
+
+* Repository: https://github.com/Evolution-X/frameworks_av/commits/refs/heads/tiramisu
+
+2aff967a82 Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/frameworks/av into tiramisu
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+1ce3c0f7d0f2 PixelPropsUtils: Update fingerprints to January 2023 release
+b2bfb66e1397 Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/frameworks/base into tiramisu
+
+* Repository: https://github.com/Evolution-X/frameworks_opt_telephony/commits/refs/heads/tiramisu
+
+d1d789b Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/frameworks/opt/telephony into tiramisu
+
+* Repository: https://github.com/Evolution-X/manifest/commits/refs/heads/tiramisu
+
+b2d2f80 Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/manifest into tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_modules_Wifi/commits/refs/heads/tiramisu
+
+dcd73b4 Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/packages/modules/Wifi into tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_providers_MediaProvider/commits/refs/heads/tiramisu
+
+334392d Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/packages/providers/MediaProvider into tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_services_Telecomm/commits/refs/heads/tiramisu
+
+bbb65db Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/packages/services/Telecomm into tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_services_Telephony/commits/refs/heads/tiramisu
+
+e8a0571 Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/packages/services/Telephony into tiramisu
+
+* Repository: https://github.com/Evolution-X/system_core/commits/refs/heads/tiramisu
+
+6b0fd94 healthd: Fix charger_res_images_vendor install location
+
+* Repository: https://github.com/Evolution-X/system_libhidl/commits/refs/heads/tiramisu
+
+b85aa6a Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/system/libhidl into tiramisu
+
+* Repository: https://github.com/Evolution-X/system_libhwbinder/commits/refs/heads/tiramisu
+
+f6dbcab Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/system/libhwbinder into tiramisu
+
+* Repository: https://github.com/Evolution-X/system_logging/commits/refs/heads/tiramisu
+
+09cfea1 Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/system/logging into tiramisu
+
+* Repository: https://github.com/Evolution-X/system_security/commits/refs/heads/tiramisu
+
+968ef59 Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/system/security into tiramisu
+
+* Repository: https://github.com/Evolution-X/system_sepolicy/commits/refs/heads/tiramisu
+
+93a4ce2 Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/system/sepolicy into tiramisu
+
+* Repository: https://github.com/Evolution-X/system_tools_mkbootimg/commits/refs/heads/tiramisu
+
+7a2add7 Merge tag 'android-13.0.0_r20' of https://android.googlesource.com/platform/system/tools/mkbootimg into tiramisu
+
+* Repository: https://gitlab.com/EvoX/vendor_gms/commits/refs/heads/tiramisu
+
+4cad6fc gms: Make way for Launcher3
+
+
+=======================
+     2023/01/03
+=======================
+
+
+=======================
+     2023/01/02
+=======================
+
+* Repository: https://github.com/Evolution-X/device_evolution_sepolicy/commits/refs/heads/tiramisu
+
+431e58f sepolicy: Allow Launcher3 to access zram
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+23e4307d99b4 New Crowdin updates (#383-#384)
+a6e4989faf21 PixelPropsUtils: Use redfin props for extra packages
+229e3ec95af4 [SQUASH] SystemUI: Remove Bluetooth dialog
+ce939e4b737c [SQUASH] SystemUI: Remove Smartspace
+b76cd2a4cb37 fixup! Improvements for dynamic VoLTE & VoWiFi icons
+
+
+=======================
+     2023/01/01
+=======================
+
+* Repository: https://github.com/Evolution-X/frameworks_libs_net/commits/refs/heads/tiramisu
+
+6cffc6c Add more DNS providers [1/3]
+
+
+=======================
+     2022/12/31
+=======================
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+45a8eb55595a ParallelSpace: Allow devices to overlay whitelist/blocklist apps
+
+* Repository: https://github.com/PixelExperience/vendor_nxp_opensource_commonsys_packages_apps_Nfc/commits/thirteen
+
+ad34196 NfcService: Sync with QPR1 AOSP changes
+
+
+=======================
+     2022/12/30
+=======================
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+ad4e8f2f74b1 Add null pointer check to avoid system crash.
+1fcf0f6df5f0 KeyguardIndication: Fix glitchy charging info on AOD
+3bfd45371673 KeyguardIndication: Fix glitchy charging info on lockscreen
+
+
+=======================
+     2022/12/29
+=======================
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+a832c34404c0 SystemUI: Show the alarm icon on QS as well
+
+
+=======================
+     2022/12/28
+=======================
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+e2bdafbd7a55 New Crowdin updates (#371-#379)
+e5f1e1519055 SystemUI: old style mobile indicator layout fixes
+6279020dc59b SystemUI: Ensure keyguard statusbar is gone when not showing
+cd9fb530723f Revert "StatusBarIconController: Avoid crash due to incorrect casting"
+29060a14b9a1 SystemUI: Remove existing icon group if its overriding
+5c0b87017ea9 SystemUI: Set launcher activity name to Launcher3
+09765bbb20b0 fixup! base: Add capability to allow tethering to use VPN upstreams [2/2]
+0c9a5f78a0cf Avoid NetworkPolicyLogger NullPointException
+896fe5c0e247 Fix VPN icon failed reloading after disabling
+c15b9a716f5d Improvements for dynamic VoLTE & VoWiFi icons
+753af0f3733a SystemUI: Introduce dynamic VoLTE & VoWiFi icons
+9a8817707c1d SystemUI: add more notification snooze times
+3fe033adf3f6 Guard in short-circuit evaluations for stringSplit methods.
+49c809439bf0 base: rescue party: check isDisabled on all public API
+d28a42d09d46 base: app widgets fix update check from Build.FINGERPRINT to Build.TIME
+e4a3877582df audio: Don't play sound effects if stream is muted
+6fbf5908dacd aapt: Fix compiler warning (clobbered by longjmp)
+1f32b5e18229 aapt: add check for untranslatable "string-array"s
+b9ca6a0996c2 Revert "base: Live Volume Steps [1/2]"
+
+* Repository: https://github.com/Evolution-X/frameworks_libs_systemui/commits/refs/heads/tiramisu
+
+c3c5fbc iconloaderlib: Update icon cache via Build.TIME instead
+
+* Repository: https://github.com/Evolution-X/packages_apps_Updates/commits/refs/heads/tiramisu
+
+3b4a686 Updates: Change to daily checks
+
+
+=======================
+     2022/12/27
+=======================
+
+
+=======================
+     2022/12/26
+=======================
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+c6e25bdeabaa Hidden Apps filter for use in the Settings app
+6e549b33a737 Show hidden apps on secondary users' app lists
+616ca1343805 Switch back to multiple listeners in RecentTasksController
+c479cb3d47a7 overlays: FontNotoSerifSourceOverlay: Have a sane label
+dbce61fe37e0 base: Grant storage permission to ThemePicker
+9b31c0ea5ae3 PixelPropsUtils: Spoof Pixel 7 Pro to SMS Organizer
+e79f186e90b7 aapt: Speed up the style pruning
+46add6a1234a Avoid Settings app NPE on broken packages
+4060c5df0b64 DozeSensors: Dont set proximity sensor listening if not registered
+0874377c6f3b base: Blacklist OPlusExtras for Parallel space
+
+* Repository: https://github.com/Evolution-X/hardware_interfaces/commits/refs/heads/tiramisu
+
+94d19fe Camera: Update HIDL overrideFormat from HAL
+
+
+=======================
+     2022/12/25
+=======================
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+25e6584d75f5 base: Whitelist DocumentsUIGoogle for Parallel space
+1bc01cd7bf4b ParallelSpace: Mark badge string as not translatable
+3924e5b70dd6 services: Suppress double upgrade notification for parallel space
+bb3f9c59c4f2 services: Fix parallel space crash with third party launcher
+65dad9b2f281 services: Do not turn on multi user switch for new parallel space
+eb7ba122d87e data: Add missing priv-app permissions for parallel space
+f8a0e9a0ac77 ActivityStarter: Resolve launcher intent to parallel owner user
+bb5f9e7cb09d services: location: Whitelist parallel space users
+28d891bdd939 services: camera: Whitelist parallel space users
+c08b0092c3c3 SystemUI: Fix privacy indicator not showing for apps in parallel spaces
+8840a1e6090a base: Expose parallel space owner to api
+04d3f0bdedb6 Whitelist some Packages for Parallel space
+63019c50c297 base: Add support for managing files across parallel spaces
+ebe6d63b856e base: Add support for parallel space
+3bc8509a97f4 NavigationBarEdgePanel: Make the gesture duration always valid
+4429f974353d Fix bluetooth tile show blank
+be64dfb3645a SystemUI: write initial value of SHOW_QR_CODE_SCANNER_SETTING on first call
+55d902127262 SystemUI: Use red color for low bluetooth battery
+ea9664a6423c StatusBarIconController: Avoid crash due to incorrect casting
+
+* Repository: https://github.com/Evolution-X/packages_apps_GameSpace/commits/refs/heads/tiramisu
+
+79ac974 New Crowdin updates (#21)
+
+* Repository: https://github.com/Evolution-X/packages_resources_devicesettings/commits/refs/heads/tiramisu
+
+c093d97 Automatic translation import
+
+
