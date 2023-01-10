@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1668598348,
-      "filename": "lineage-20.0-20221116-UNOFFICIAL-gapps-odin.zip",
-      "id": "27077e5f5c6b6f7dac415083d56524ab81e8305395ec2d292e461c9da55727ea",
+      "datetime": 1673304080,
+      "filename": "lineage-20.0-20230109-UNOFFICIAL-gapps-odin.zip",
+      "id": "2081bac0e8a7d8070b3765cd60e563206544c3e329bf3780a6a4a0c3c39c6835",
       "romtype": "UNOFFICIAL",
-      "size": 2143795827,
-      "url": "https://sourceforge.net/projects/xiaomi-odin/files/13/LineageOS/lineage-20.0-20221116-UNOFFICIAL-gapps-odin.zip/download",
+      "size": 2146910254,
+      "url": "https://sourceforge.net/projects/xiaomi-odin/files/13/LineageOS/lineage-20.0-20230109-UNOFFICIAL-gapps-odin.zip/download",
       "version": "20.0"
     }
   ]
