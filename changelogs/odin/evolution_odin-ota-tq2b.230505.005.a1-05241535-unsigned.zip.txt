@@ -1,0 +1,231 @@
+=======================
+     2023/05/24
+=======================
+
+* Repository: https://github.com/PixelExperience-Devices/device_qcom_common/commits/thirteen
+
+7b6d8a5 vendor: display: Disable SF client composition cache for <5.4 targets
+
+* Repository: https://github.com/Inkypen79/device_odin/commits/evo
+
+ac3052a odin: Evo-X bringup
+2697177 odin: sepolicy: Add DC dimming rule
+9d9d54d odin: parts: Implement dc dimming
+69b59c3 odin: Add support for QTI framework boost
+881ea91 odin: Compile kernel with Clang 17.0.2
+6a92ea8 odin: Kill minksocket logspam
+
+* Repository: https://github.com/Evolution-X/frameworks_base/commits/refs/heads/tiramisu
+
+2ab06736d9f2 SystemUI: fix tuner enabling aod on first open
+
+* Repository: https://github.com/Evolution-X/manifest/commits/refs/heads/tiramisu
+
+bdb9e99 manifest: Track our fork of system/netd
+
+* Repository: https://github.com/Evolution-X/packages_apps_Evolver/commits/refs/heads/tiramisu
+
+96766c4 New Crowdin updates (#226-#462)
+
+* Repository: https://github.com/Evolution-X/packages_apps_Launcher3/commits/refs/heads/tiramisu
+
+42c20d9 Launcher3: fix crash
+
+* Repository: https://github.com/Evolution-X/packages_apps_ManagedProvisioning/commits/refs/heads/tiramisu
+
+2b42826 Allow provisioning of multiple work profiles
+
+* Repository: https://github.com/Evolution-X/packages_apps_Settings/commits/refs/heads/tiramisu
+
+be1e12d AppDataUsage: Update "Background network access" toggle logic
+
+* Repository: https://github.com/Evolution-X/packages_modules_Connectivity/commits/refs/heads/tiramisu
+
+4c42c4c fixup! Connectivity: Add capability to allow tethering to use VPN upstreams [2/3]
+
+* Repository: https://github.com/Evolution-X/packages_modules_adb/commits/refs/heads/tiramisu
+
+f6f95a2 adb_root: Simplify the way we parse enabled state file
+
+* Repository: https://github.com/Evolution-X/system_netd/commits/refs/heads/tiramisu
+
+8cd108f bw: Make background data work as background network access instead
+
+* Repository: https://github.com/Evolution-X/vendor_evolution/commits/refs/heads/tiramisu
+
+6ed71bd version: Update to 7.9.2 (Pancit)
+
+* Repository: https://github.com/Evolution-X/vendor_pixel-framework/commits/refs/heads/tiramisu
+
+08d515c SettingsGoogle: Sync with Evolution X changes
+
+
+=======================
+     2023/05/23
+=======================
+
+* Repository: https://github.com/Evolution-X/packages_services_VncFlinger/commits/refs/heads/tiramisu
+
+5212b89 VncFlinger: fix null crash
+
+
+=======================
+     2023/05/22
+=======================
+
+
+=======================
+     2023/05/21
+=======================
+
+* Repository: https://github.com/Evolution-X/device_evolution_sepolicy/commits/refs/heads/tiramisu
+
+76e4072 sepolicy: common: Add rules for FM Radio app properties
+
+* Repository: https://github.com/Evolution-X/packages_apps_FMRadio/commits/refs/heads/tiramisu
+
+7ed4dcf FMRadio: Generalize Built-In FM Antenna support
+
+* Repository: https://github.com/Evolution-X/system_core/commits/refs/heads/tiramisu
+
+73f7c1d init.rc: tune dirty data writebacks
+
+
+=======================
+     2023/05/20
+=======================
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_vibrator/commits/refs/heads/lineage-20.0
+
+b0ed704 vibrator: Add support for aw8695_haptic input device
+
+
+=======================
+     2023/05/19
+=======================
+
+* Repository: https://github.com/Evolution-X/external_tigervnc/commits/refs/heads/tiramisu
+
+5966760 fix build
+
+* Repository: https://github.com/Evolution-X/frameworks_av/commits/refs/heads/tiramisu
+
+3952fc7 Merge tag 'android-13.0.0_r49' of https://android.googlesource.com/platform/frameworks/av into tiramisu
+
+* Repository: https://github.com/Evolution-X/frameworks_native/commits/refs/heads/tiramisu
+
+3acb443 Merge tag 'android-13.0.0_r49' of https://android.googlesource.com/platform/frameworks/native into tiramisu
+
+* Repository: https://gitlab.com/EvoX/vendor_firmware/commits/refs/heads/tiramisu
+
+38b080d rosemary: Initial firmware
+
+
+=======================
+     2023/05/18
+=======================
+
+* Repository: https://github.com/Evolution-X/build_soong/commits/refs/heads/tiramisu
+
+36cf95f65 Merge tag 'android-13.0.0_r49' of https://android.googlesource.com/platform/build/soong into tiramisu
+
+* Repository: https://github.com/Evolution-X/libcore/commits/refs/heads/tiramisu
+
+2dff41f Fix race condition in java.security.Provider
+
+* Repository: https://github.com/Evolution-X/packages_modules_Wifi/commits/refs/heads/tiramisu
+
+0291c04 Merge tag 'android-13.0.0_r49' of https://android.googlesource.com/platform/packages/modules/Wifi into tiramisu
+
+
+=======================
+     2023/05/17
+=======================
+
+* Repository: https://github.com/LineageOS/android_external_unrar/commits/refs/heads/lineage-20.0
+
+45b4c78 unrar: Move to /system_ext
+
+* Repository: https://github.com/Evolution-X/packages_apps_WallpaperPicker2/commits/refs/heads/tiramisu
+
+60fb22e New Crowdin updates (#1-#4)
+
+* Repository: https://github.com/Evolution-X/system_apex/commits/refs/heads/tiramisu
+
+0ddd8ec Merge tag 'android-13.0.0_r49' of https://android.googlesource.com/platform/system/apex into tiramisu
+
+
+=======================
+     2023/05/16
+=======================
+
+* Repository: https://github.com/LineageOS/android_external_rsync/commits/refs/heads/lineage-20.0
+
+cdb7e98 rsync: Move to /system_ext
+
+* Repository: https://github.com/LineageOS/android_external_zstd/commits/refs/heads/lineage-20.0
+
+e6a035a zstd: Move to /system_ext
+
+* Repository: https://github.com/Evolution-X/system_extras/commits/refs/heads/tiramisu
+
+661c5e5 partition_tools: extend lpunpack for split partitions
+
+
+=======================
+     2023/05/15
+=======================
+
+* Repository: https://github.com/LineageOS/android_packages_apps_Aperture/commits/refs/heads/lineage-20.0
+
+78e3fca Automatic translation import
+
+
+=======================
+     2023/05/14
+=======================
+
+
+=======================
+     2023/05/13
+=======================
+
+* Repository: https://github.com/Evolution-X/build/commits/refs/heads/tiramisu
+
+15b01ba Merge tag 'android-13.0.0_r49' of https://android.googlesource.com/platform/build into tiramisu
+
+* Repository: https://github.com/Evolution-X/packages_modules_Bluetooth/commits/refs/heads/tiramisu
+
+4900841184 Merge tag 'android-13.0.0_r49' of https://android.googlesource.com/platform/packages/modules/Bluetooth into tiramisu
+
+
+=======================
+     2023/05/12
+=======================
+
+* Repository: https://github.com/Evolution-X/device_qcom_sepolicy-legacy-um/commits/refs/heads/tiramisu
+
+c10c457 sepolicy-legacy-um: Update drm service executables file_contexts
+
+* Repository: https://github.com/Evolution-X/device_qcom_sepolicy_vndr/commits/refs/heads/tiramisu
+
+2366840 SEPolicy.mk: evolution
+
+* Repository: https://github.com/Evolution-X/device_qcom_sepolicy_vndr-legacy-um/commits/refs/heads/tiramisu
+
+6ffd7e7 sepolicy_vndr: restore iwlan hwservice
+
+* Repository: https://github.com/lithium-4-4-project/android_kernel_xiaomi_msm8996/commits/thirteen
+
+bfccbe610 symbol.c: fix misleading identation
+
+* Repository: https://github.com/Evolution-X/packages_apps_ThemePicker/commits/refs/heads/tiramisu
+
+40b7941 Specify we read and write pixel launcher settings
+
+
+=======================
+     2023/05/11
+=======================
+
+
