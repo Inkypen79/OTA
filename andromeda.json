@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1677356215,
-      "filename": "lineage-20.0-20230225-UNOFFICIAL-andromeda-signed.zip",
-      "id": "138a5e11164bbabb61ee308f96c7d239450962a7faf6bdb0355530dcbb2a794f",
+      "datetime": 1736712552,
+      "filename": "lineage-22.1-20250112-UNOFFICIAL-andromeda.zip",
+      "id": "4b0863579612f66b964295c6faca9073700bb41fe54280aef1ed310b12764392",
       "romtype": "UNOFFICIAL",
-      "size": 1253850013,
-      "url": "https://sourceforge.net/projects/xiaomi-andromeda/files/T/LineageOS/lineage-20.0-20230225-UNOFFICIAL-andromeda-signed.zip/download",
-      "version": "20.0"
+      "size": 1446496766,
+      "url": "https://sourceforge.net/projects/xiaomi-andromeda/files/15/LineageOS/lineage-22.1-20250112-UNOFFICIAL-andromeda.zip/download",
+      "version": "22.1"
     }
   ]
 }
